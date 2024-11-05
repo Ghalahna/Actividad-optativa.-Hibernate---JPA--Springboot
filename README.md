@@ -1,1 +1,1 @@
-# Actividad-optativa.-Hibernate---JPA--Springboot
+# hibernate-samples
